@@ -1,14 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hyun's%20%20%20git&%&fontSize=60&animation=twinkling)
+<a href="https://github.com/HxWOO">![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hyun's%20%20%20git&%&fontSize=60&animation=twinkling)</a>
 
 
 ### History
 
 ---
 
-- 홍익대학교 컴퓨터공학과 재학  <span style="color:gray">2019.03 ~</span>
-- UMC (University Makeus Challenge) 4기 - Server <span style="color:gray">2023.03 ~</span>
-- 멋쟁이 사자처럼 11기 - Backend <span style="color:gray">2023.03 ~</span>
-- UMC (University Makeus Challenge) 5기 - 부회장 <span style="color:gray">2023.09 ~</span> </br></br>
+- 홍익대학교 컴퓨터공학과 재학  <span style="color:gray"> 2019.03 ~ </span>
+- UMC (University Makeus Challenge) 4기 - Server <span style="color:gray"> 2023.03 ~ </span>
+- 멋쟁이 사자처럼 11기 - Backend <span style="color:gray"> 2023.03 ~ </span>
+- UMC (University Makeus Challenge) 5기 - 부회장 <span style="color:gray"> 2023.09 ~ </span>
 
 ### Skills
 
