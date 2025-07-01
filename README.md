@@ -5,11 +5,11 @@
 
 ---
 
-- 홍익대학교 컴퓨터공학과 졸업  <span style="color:gray">(2019.03 ~ 2025.02 )</span>
-- UMC (University Makeus Challenge) 4기 - Server <span style="color:gray">(2023.03 ~ )</span>
-- 멋쟁이 사자처럼 11기 - Backend <span style="color:gray">(2023.03 ~ )</span>
-- UMC (University Makeus Challenge) 5기 - 부회장 <span style="color:gray">(2023.09 ~ 2024.02 )</span>
-- 코드잇 부스트 (Codeit Boost) 1기 - Backend Manager <span style="color:gray">(2024.02 ~ 2025.02 )</span>
+- 홍익대학교 컴퓨터공학과 졸업 <span style="color:gray">(2019.03 ~ 2025.02)</span>
+- UMC (University Makeus Challenge) 4기 - Server <span style="color:gray">(2023.03 ~ 2023.08)</span>
+- 멋쟁이 사자처럼 11기 - Backend <span style="color:gray">(2023.03 ~ 2023.12)</span>
+- UMC (University Makeus Challenge) 5기 - 부회장 <span style="color:gray">(2023.09 ~ 2024.02)</span>
+- 코드잇 부스트 (Codeit Boost) 1기 - Backend Manager <span style="color:gray">(2024.02 ~ 2025.02)</span>
 - 우리 fisa AI 엔지니어링 <span style="color:gray">(2025.07 ~ )</span>
 
 ### Skills
